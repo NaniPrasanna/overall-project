@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1054735430113",
+    "firebase_url": "https://fir-yamyah-project.firebaseio.com",
+    "project_id": "fir-yamyah-project",
+    "storage_bucket": "fir-yamyah-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054735430113:android:2c9839a64f580a89",
+        "android_client_info": {
+          "package_name": "com.example.nani.firebaseyyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054735430113-tinor223r5sm3g95g5m8k8iph6mho3rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdvzVUuBsZ-p4k5Mbcq4VvkTP8SyfbYs8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

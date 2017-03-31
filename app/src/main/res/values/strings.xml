@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FireBaseYYP</string>
+
+
+    <string-array name="list">
+        <item>SONY </item>
+        <item>DIYA </item>
+        <item>APPLE </item>
+        <item> MOTO</item>
+    </string-array>
+</resources>
